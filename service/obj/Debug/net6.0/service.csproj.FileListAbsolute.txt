@@ -1,0 +1,64 @@
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\appsettings.Development.json
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\appsettings.json
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\service.exe
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\service.deps.json
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\service.runtimeconfig.json
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\service.dll
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\service.pdb
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular Projects\Portfolio Projects\Email\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.csproj.AssemblyReference.cache
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.AssemblyInfoInputs.cache
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.AssemblyInfo.cs
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.csproj.CoreCompileInputs.cache
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets\msbuild.service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets\msbuild.build.service.props
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.service.props
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.service.props
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets.build.json
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\staticwebassets.development.json
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\scopedcss\bundle\service.styles.css
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.csproj.CopyComplete
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.dll
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\refint\service.dll
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.pdb
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\service.genruntimeconfig.cache
+D:\Angular Projects\Portfolio Projects\Email\service\obj\Debug\net6.0\ref\service.dll
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\appsettings.json
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\service.exe
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\service.deps.json
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\service.runtimeconfig.json
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\service.dll
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\service.pdb
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91975\Documents\Repos\service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.csproj.AssemblyReference.cache
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.AssemblyInfoInputs.cache
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.AssemblyInfo.cs
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.csproj.CoreCompileInputs.cache
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets\msbuild.service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets\msbuild.build.service.props
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.service.props
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.service.props
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\scopedcss\bundle\service.styles.css
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.csproj.CopyComplete
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.dll
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\refint\service.dll
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.pdb
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\service.genruntimeconfig.cache
+C:\Users\91975\Documents\Repos\service\obj\Debug\net6.0\ref\service.dll
